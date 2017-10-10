@@ -1,0 +1,29 @@
+7-by-7, nzmax: 21 nnz: 21
+    col 0 : locations 0 to 1
+      0 : 10.1
+      6 : -10
+    col 1 : locations 2 to 2
+      1 : 0.001
+    col 2 : locations 3 to 5
+      2 : 10.6667
+      5 : -0.666667
+      4 : -10
+    col 3 : locations 6 to 8
+      3 : 1.66667
+      5 : -1
+      4 : -0.666667
+    col 4 : locations 9 to 12
+      4 : 11.1867
+      2 : -10
+      5 : -0.02
+      3 : -0.666667
+    col 5 : locations 13 to 17
+      5 : 2.18667
+      6 : -0.5
+      2 : -0.666667
+      4 : -0.02
+      3 : -1
+    col 6 : locations 18 to 20
+      6 : 10.5
+      5 : -0.5
+      0 : -10
